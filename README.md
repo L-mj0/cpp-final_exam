@@ -24,33 +24,33 @@
 
 ### 流程设计
 
-![](images\1.png)
+![](images/1.png)
 
 
 
 ### 结果截图及说明
 
-![image-20230929214136066](images\2.png)
+![image-20230929214136066](images/2.png)
 
 输入1 张三
 
-![image-20230929214141287](images\3.png)
+![image-20230929214141287](images/3.png)
 
 输入2
 
-![image-20230929214148481](images\4.png)
+![image-20230929214148481](images/4.png)
 
 红码文件：
 
-![img](images\5.png)
+![img](images/5.png)
 
 黄码文件：
 
-![image-20230929214235972](images\6.png)
+![image-20230929214235972](images/6.png)
 
 绿码文件：
 
-![image-20230929214244395](images\7.png)
+![image-20230929214244395](images/7.png)
 
 ### 设计体会
 
@@ -62,7 +62,7 @@
 
 ### 流程设计
 
-![image-20230929214326072](images\8.png)
+![image-20230929214326072](images/8.png)
 
 ### 核心实现原理
 
@@ -78,23 +78,23 @@
 
 ### 结果截图及说明
 
-![image-20230929214359556](images\9.png)
+![image-20230929214359556](images/9.png)
 
 输入1：
 
-![image-20230929214407654](images\10.png)
+![image-20230929214407654](images/10.png)
 
 输入2：
 
-![image-20230929214425876](images\11.png)
+![image-20230929214425876](images/11.png)
 
 输入3：
 
-![image-20230929214431918](images\12.png)
+![image-20230929214431918](images/12.png)
 
-输入4 a：![image-20230929214444306](images\13.png)
+输入4 a：![image-20230929214444306](images/13.png)
 
-输入5: youth![image-20230929214500281](images\14.png)
+输入5: youth![image-20230929214500281](images/14.png)
 
 ### 设计体会
 
@@ -106,7 +106,7 @@
 
 ### 流程设计
 
-![image-20230929214534715](images\15.png)
+![image-20230929214534715](images/15.png)
 
 ### 核心实现原理
 
@@ -118,19 +118,19 @@
 
 ### 结果截图及说明
 
-![image-20230929214601593](images\16.png)
+![image-20230929214601593](images/16.png)
 
 原图：
 
-![image-20230929214608427](images\17.png)
+![image-20230929214608427](images/17.png)
 
-输入1：//功能(1)灰度处理：![image-20230929214615218](images\18.png)
+输入1：//功能(1)灰度处理：![image-20230929214615218](images/18.png)
 
-输入2：马赛克处理![image-20230929214622185](images\19.png)
+输入2：马赛克处理![image-20230929214622185](images/19.png)
 
-原图：![image-20230929214629338](E:\Study\s-Freshman\Grade_One\Finalc++\images\20.png)
+原图：![image-20230929214629338](images/20.png)
 
-输入3：//抠图![image-20230929214635447](images\21.png)
+输入3：//抠图![image-20230929214635447](images/21.png)
 
 ### 设计体会 
 
