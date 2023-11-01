@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\10473\source\repos\c++ project3\源.cpp(17,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10473\source\repos\c++ project3\源.cpp(19,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10473\source\repos\c++ project3\源.cpp(24,41): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\10473\source\repos\c++ project3\源.cpp(46,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10473\source\repos\c++ project3\源.cpp(50,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10473\source\repos\c++ project3\源.cpp(71,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10473\source\repos\c++ project3\源.cpp(79,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10473\source\repos\c++ project3\源.cpp(81,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10473\source\repos\c++ project3\源.cpp(107,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10473\source\repos\c++ project3\源.cpp(109,22): warning C4018: “<”: 有符号/无符号不匹配
+  c++ project3.vcxproj -> C:\Users\10473\source\repos\c++ project3\Debug\c++ project3.exe

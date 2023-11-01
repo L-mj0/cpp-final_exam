@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\10473\source\repos\c++ project2\源.cpp(99,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\10473\source\repos\c++ project2\源.cpp(152): warning C4715: “TXTManager::getwords”: 不是所有的控件路径都返回值
+C:\Users\10473\source\repos\c++ project2\源.cpp(138): warning C4715: “TXTManager::getstrlen”: 不是所有的控件路径都返回值
+C:\Users\10473\source\repos\c++ project2\源.cpp(126): warning C4715: “TXTManager::func”: 不是所有的控件路径都返回值
+  c++ project2.vcxproj -> C:\Users\10473\source\repos\c++ project2\Debug\c++ project2.exe
